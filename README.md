@@ -1,4 +1,4 @@
-## Please refer to @arashbioinf
+## Please refer to [@arashbioinf](https://github.com/arashbioinf)
 
 <!--
 **Bioinfmatters/bioinfmatters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
